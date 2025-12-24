@@ -7,6 +7,8 @@ void solve() {
     cin>>n;
 
     //starting
+    
+
 }
 
 int main() {
